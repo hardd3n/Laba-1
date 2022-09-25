@@ -42,3 +42,4 @@ while function != 'end':
         print('Конец программы')
     else:
         print('Неизвестная функция, попробуйте еще раз')
+    function = input('Введите функцию:')
